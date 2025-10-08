@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	color: white;
+	font-size: 1rem;
+}
+body header nav ul {
+	list-style-type: none;
+}
+body header nav ul li button {
+	border-radius: 50px;
+	max-width: 100%;
+	max-height: 50%;
+	margin: 0 auto;
+}
+body header nav ul li {
+	display: flex;
+	flex-direction: column;
+}
+body header nav ul li button a {
+	/*font-size: 3rem;*/
+}
