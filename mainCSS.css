@@ -19,3 +19,13 @@ body header nav ul li {
 body header nav ul li button a {
 	/*font-size: 3rem;*/
 }
+.borderWhite {
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
+}
+.moveAbleCSS {
+	position: relative;
+	cursor: pointer;
+	position: fixed;
+}
