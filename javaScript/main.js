@@ -31,4 +31,8 @@ function moveAbleJS(){
 		document.removeEventListener('mousemove', mouseMove);
 	}
 }
-moveAbleJS();
+function test(){
+	console.log("test");
+}
+//moveAbleJS();
+//test();
